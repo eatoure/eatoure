@@ -7,7 +7,7 @@
 <p align="center">
   <a href="#-what-is-this"><img alt="Chaos Badge" src="https://img.shields.io/badge/Chaos-licensed-green?style=for-the-badge"></a>
   <a href="#-why"><img alt="Adrenaline" src="https://img.shields.io/badge/Adrenaline-High-orange?style=for-the-badge"></a>
-  <a href="https://github.com/amadoutoure"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=amadoutoure&style=for-the-badge"></a>
+  <a href="https://github.com/eatoure"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=eatoure&style=for-the-badge"></a>
 </p>
 
 <!-- Social buttons with inline SVG icons -->
