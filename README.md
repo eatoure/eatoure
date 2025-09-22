@@ -1,6 +1,6 @@
 <!-- Centered title w/ fun typing banner -->
 <p align="center">
-  <img alt="Hi. This is Amadou and ChatGPT definitely wrote this" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=16C60C&center=true&vCenter=true&width=900&lines=Hi.+This+is+Amadou+and+ChatGPT+definitely+wrote+this;Except+some+projects+are+100%+me+%F0%9F%98%91;Copilot+is+my+frenemy+%F0%9F%A4%AA%F0%9F%92%BB">
+  <img alt="Hi. This is Amadou!" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=16C60C&center=true&vCenter=true&width=900&lines=Hi.+This+is+Amadou+and+ChatGPT+definitely+wrote+this;Except+some+projects+are+100%+me+%F0%9F%98%91;Copilot+is+my+frenemy+%F0%9F%A4%AA%F0%9F%92%BB">
 </p>
 
 <!-- Cute stat/badge row -->
