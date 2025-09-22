@@ -1,6 +1,6 @@
 <!-- Centered title w/ fun typing banner -->
 <p align="center">
-  <img alt="Hi. This is Amadou!" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=16C60C&center=true&vCenter=true&width=900&lines=Hi.+This+is+Amadou+and+ChatGPT+definitely+wrote+this;Except+some+projects+are+100%+me+%F0%9F%98%91;Copilot+is+my+frenemy+%F0%9F%A4%AA%F0%9F%92%BB">
+  <img alt="Hi. This is Amadou!" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=16C60C&center=true&vCenter=true&width=900&lines=Hi.+This+is+Amadou;Welcome+to+my+corner+of+the+internet;Builder+of+things+that+hopefully+work">
 </p>
 
 <!-- Cute stat/badge row -->
@@ -31,19 +31,19 @@
 
 ---
 
-<!-- OG intro, kept and lightly zhuzhed -->
-> Welcome to my corner of the internet where I let an AI sidekick "help" me code.  
-> Some of these projects are fully made by me, nevertheless 😑😑  
-> Sometimes it’s a lifesaver, sometimes it’s that loud kid in class who blurts out the wrong answer with full confidence. Either way, here we are.
+<!-- Sleek intro -->
+> Welcome to my corner of the internet.  
+> This is where experiments turn into projects, and chaos occasionally becomes something useful.  
+> Some of it works flawlessly. Some of it… is still loading.
 
 ---
 
 ## 🧩 What is this?
-This repo is basically me and Copilot arguing in real-time. Think of it as:
-- 40% useful suggestions  
-- 40% wild hallucinations  
-- 19.000009% me googling the exact same thing Copilot just confidently got wrong  
-- 0.000001% real, genuine code
+This repo is basically a sandbox for ideas, prototypes, and half-serious experiments. Expect:
+- 50% practical code  
+- 30% unnecessary tinkering  
+- 15% accidental discoveries  
+- 5% pure chaos  
 
 <details>
   <summary><b>Click to expand the Chaos Diagram™</b> (100% accurate)</summary>
@@ -52,11 +52,37 @@ This repo is basically me and Copilot arguing in real-time. Think of it as:
   ```text
   Human Brain ─────┐
                    ├───> 👨🏾‍💻 commits -> ✅ sometimes works
-  Copilot ─────────┘
+  Keyboard─────────┘
   
   if (works) {
       celebrate();
   } else {
-      blame("ChatGPT & Copilot"); // obviously
+      debug();
   }
-MIT License (chaos aught to be free)
+  ```
+</details>
+
+---
+
+## ⚡ Why
+Because building things is fun.  
+Because sometimes the fastest way to learn is to break stuff.  
+And because the internet feels a little more alive when you add your own noise to it.
+
+---
+
+## 🎧📚 Now Playing / Reading / Coding
+<p align="center">
+  <img alt="Now Playing" src="https://img.shields.io/badge/Now_Playing-%F0%9F%8E%B5_Spinning_Whatever's_On_Spotify-blue?style=for-the-badge">
+  <br>
+  <img alt="Now Reading" src="https://img.shields.io/badge/Now_Reading-L'étrange_destin_de_Wangrin_(A.H._Bâ)-purple?style=for-the-badge">
+  <img alt="Now Reading" src="https://img.shields.io/badge/Now_Reading-L'Afrique_contre_la_démocratie_(O._Ndiaye)-purple?style=for-the-badge">
+  <br>
+  <img alt="Now Coding" src="https://img.shields.io/badge/Now_Coding-Fullstack_Projects-green?style=for-the-badge">
+</p>
+
+---
+
+## 📜 License
+MIT License  
+(chaos ought to be free)
